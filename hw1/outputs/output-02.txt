@@ -1,0 +1,13 @@
+Enter the total amount of money: $
+Fewest coins for $1.91
+==========================
+Coin Type           Number
+--------------------------
+Dollars                  1
+Half-Dollars             1
+Quarters                 1
+Dimes                    1
+Nickels                  1
+Pennies                  1
+--------------------------
+Total coins              6

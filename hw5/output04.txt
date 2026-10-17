@@ -1,0 +1,21 @@
+Enter input filename: 
+
+
+Student Grade Data
+
+Name                     ID   Grade
+-----------------------------------
+Obi-Wan Kenobi      9494999      97
+Din Darin from Mand 8939838      89
+Leia Organa with th 8001099      82
+Han Solo            1902930      78
+Anakin Skywalker pr 1001001      55
+Jabba the Hutt AKA  0010001      46
+Droid09123102901293 1234567      30
+
+Exam Stats
+-----------------------------------
+Minimum                          30
+Maximum                          97
+Mean                           68.1
+Median                         78.0

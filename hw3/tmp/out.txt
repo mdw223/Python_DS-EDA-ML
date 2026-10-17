@@ -1,0 +1,35 @@
+Enter the starting height in feet and inches. First enter the number of feet as an integer between 0 and 20: Now enter the number of inches as an integer between 0 and 11: Enter the ending height in feet and inches. First enter the number of feet as an integer between 0 and 20: Now enter the number of inches as an integer between 0 and 11: 
+
+        Height Conversion Table         
+   feet    |   inches   ||     cm    
+=====================================
+         4 |          8 ||     142.24
+         4 |          9 ||     144.78
+         4 |         10 ||     147.32
+         4 |         11 ||     149.86
+         5 |          0 ||     152.40
+         5 |          1 ||     154.94
+         5 |          2 ||     157.48
+         5 |          3 ||     160.02
+         5 |          4 ||     162.56
+         5 |          5 ||     165.10
+         5 |          6 ||     167.64
+         5 |          7 ||     170.18
+         5 |          8 ||     172.72
+         5 |          9 ||     175.26
+         5 |         10 ||     177.80
+         5 |         11 ||     180.34
+         6 |          0 ||     182.88
+         6 |          1 ||     185.42
+         6 |          2 ||     187.96
+         6 |          3 ||     190.50
+         6 |          4 ||     193.04
+         6 |          5 ||     195.58
+         6 |          6 ||     198.12
+         6 |          7 ||     200.66
+         6 |          8 ||     203.20
+         6 |          9 ||     205.74
+         6 |         10 ||     208.28
+         6 |         11 ||     210.82
+         7 |          0 ||     213.36
+         7 |          1 ||     215.90

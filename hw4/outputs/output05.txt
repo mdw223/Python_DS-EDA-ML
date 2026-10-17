@@ -1,0 +1,47 @@
+Enter filename: input05.txt
+Text: The event starts at 6:30 PM and costs $25 per person. A 10% discount applies for early registrations. The venue has a capacity of 500+ guests! Will the VIP section cost > $100?
+
+Text contains: 33 words, 177 characters
+Average sentence length: 8.25 words
+Average word length: 4.24 characters
+Number of unique words: 30
+
+Frequency of Characters
+=======================
+Letter        Frequency
+-----------------------
+    a           11
+    b            0
+    c            6
+    d            2
+    e           14
+    f            2
+    g            2
+    h            4
+    i            8
+    j            0
+    k            0
+    l            4
+    m            1
+    n            7
+    o            8
+    p            7
+    q            0
+    r            7
+    s           14
+    t           15
+    u            3
+    v            3
+    w            1
+    x            0
+    y            2
+    z            0
+-----------------------
+Punctuation   Frequency
+-----------------------
+    .            2
+    ?            1
+    !            1
+    ,            0
+    :            0
+    ;            0

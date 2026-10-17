@@ -1,0 +1,3 @@
+Enter the length of the pillowcase in inches (0-108"): Enter the price per yard: $
+Minimum fabric needed: 2-1/4 yards
+Fabric cost: $23.60

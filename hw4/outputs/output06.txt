@@ -1,0 +1,47 @@
+Enter filename: input06.txt
+Text: Wow!
+
+Text contains: 1 words, 5 characters
+Average sentence length: 1.00 words
+Average word length: 3.00 characters
+Number of unique words: 1
+
+Frequency of Characters
+=======================
+Letter        Frequency
+-----------------------
+    a            0
+    b            0
+    c            0
+    d            0
+    e            0
+    f            0
+    g            0
+    h            0
+    i            0
+    j            0
+    k            0
+    l            0
+    m            0
+    n            0
+    o            1
+    p            0
+    q            0
+    r            0
+    s            0
+    t            0
+    u            0
+    v            0
+    w            2
+    x            0
+    y            0
+    z            0
+-----------------------
+Punctuation   Frequency
+-----------------------
+    .            0
+    ?            0
+    !            1
+    ,            0
+    :            0
+    ;            0

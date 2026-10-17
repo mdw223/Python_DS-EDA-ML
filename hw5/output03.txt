@@ -1,0 +1,46 @@
+Enter input filename: 
+
+
+Student Grade Data
+
+Name                     ID   Grade
+-----------------------------------
+Aaron Moore         2020190     100
+Mabel Table         2323232     100
+Ronald Reagan       9929992      99
+Amelia Bedelia      2939292      98
+Samantha Stone      9209332      95
+Palek Patel         6467485      95
+Gretel Snitzel      7717711      93
+Ben Branson         4389210      91
+Gerald Ford         8322321      91
+Yin Yang            9399399      89
+Barack Obama        3920392      88
+Jimmy Carter        7477372      87
+Wally Pocket        1234567      86
+George Bush         2323231      84
+Josh Nelson         1419416      83
+Ruthie Toothie      1273841      77
+Kamala Harris       9320294      77
+Muffie Huffie       2722734      75
+Jason Mamou         1881812      75
+Tim Trim            1000101      75
+Hillary Black       8192301      70
+Joe Biden           5864859      70
+Donald Trump        6668666      70
+Lyndon Johnson      4839834      69
+Johnnie Cash        3892012      66
+Paul Small          1000002      65
+Bill Clinton        0010011      60
+Tyler Taylor        3838381      55
+Andrew Jackson      0012348      54
+Mary Moore          9102934      35
+Wes Beston          1010101     N/A
+Ross Perot          0102030     N/A
+
+Exam Stats
+-----------------------------------
+Minimum                          35
+Maximum                         100
+Mean                           79.1
+Median                         80.0

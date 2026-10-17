@@ -1,0 +1,50 @@
+Enter filename: input03.txt
+Text: The sun shines bright in the morning. 
+The sun sets in the evening. 
+The sun brings warmth and light. 
+Without the sun, life would not exist.
+
+Text contains: 26 words, 142 characters
+Average sentence length: 6.50 words
+Average word length: 4.15 characters
+Number of unique words: 17
+
+Frequency of Characters
+=======================
+Letter        Frequency
+-----------------------
+    a            2
+    b            2
+    c            0
+    d            2
+    e           12
+    f            1
+    g            5
+    h           11
+    i           11
+    j            0
+    k            0
+    l            3
+    m            2
+    n           14
+    o            4
+    p            0
+    q            0
+    r            4
+    s           10
+    t           14
+    u            6
+    v            1
+    w            3
+    x            1
+    y            0
+    z            0
+-----------------------
+Punctuation   Frequency
+-----------------------
+    .            4
+    ?            0
+    !            0
+    ,            1
+    :            0
+    ;            0

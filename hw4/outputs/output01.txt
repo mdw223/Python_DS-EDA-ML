@@ -1,0 +1,47 @@
+Enter filename: input01.txt
+Text: Welcome to CSC251-001 Python Applications! This course is designed for sophomore CSC majors.
+
+Text contains: 13 words, 93 characters
+Average sentence length: 6.50 words
+Average word length: 6.00 characters
+Number of unique words: 13
+
+Frequency of Characters
+=======================
+Letter        Frequency
+-----------------------
+    a            3
+    b            0
+    c            7
+    d            2
+    e            6
+    f            1
+    g            1
+    h            3
+    i            5
+    j            1
+    k            0
+    l            2
+    m            3
+    n            3
+    o           10
+    p            4
+    q            0
+    r            4
+    s            9
+    t            4
+    u            1
+    v            0
+    w            1
+    x            0
+    y            1
+    z            0
+-----------------------
+Punctuation   Frequency
+-----------------------
+    .            1
+    ?            0
+    !            1
+    ,            0
+    :            0
+    ;            0

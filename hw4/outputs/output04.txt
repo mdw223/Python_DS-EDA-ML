@@ -1,0 +1,47 @@
+Enter filename: input04.txt
+Text: "Hard work beats talent," she said, "especially when talent doesn’t work hard." 
+
+Text contains: 12 words, 81 characters
+Average sentence length: 12.00 words
+Average word length: 5.08 characters
+Number of unique words: 9
+
+Frequency of Characters
+=======================
+Letter        Frequency
+-----------------------
+    a            7
+    b            1
+    c            1
+    d            4
+    e            8
+    f            0
+    g            0
+    h            4
+    i            2
+    j            0
+    k            2
+    l            4
+    m            0
+    n            4
+    o            3
+    p            1
+    q            0
+    r            4
+    s            5
+    t            6
+    u            0
+    v            0
+    w            3
+    x            0
+    y            1
+    z            0
+-----------------------
+Punctuation   Frequency
+-----------------------
+    .            1
+    ?            0
+    !            0
+    ,            2
+    :            0
+    ;            0

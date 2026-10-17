@@ -1,0 +1,19 @@
+Anakin Skywalker
+1001001
+55
+Han Solo
+1902930
+78
+Leia Organa
+8001099
+82
+Jabba the Hutt
+0010001
+46
+Obi-Wan Kenobi
+9494999
+97
+Din Darin
+8939838
+89
+Han Solo

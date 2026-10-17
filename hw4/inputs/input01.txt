@@ -1,0 +1,1 @@
+Welcome to CSC251-001 Python Applications! This course is designed for sophomore CSC majors.
