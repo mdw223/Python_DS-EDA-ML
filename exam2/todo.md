@@ -1,0 +1,5 @@
+- [ ] go thru the lectures and take initial notes
+- [ ] look over lecture videos
+- [ ] to given exam practice problems
+- [ ] do practice for each of them using class activities
+- [ ] do practice based on generated 
