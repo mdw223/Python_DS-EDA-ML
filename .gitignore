@@ -44,3 +44,4 @@ Thumbs.db
 # Optional: ignore local project scratch files if you don't want them tracked
 # tmp/
 # *.log
+hw9/data/*
