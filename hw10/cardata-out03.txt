@@ -1,0 +1,4 @@
+Ford Maverick 1975 6000
+Toyota Corolla 2000 4500
+Chevrolet Impala 1983 3900
+Pontiac Firebird 1979 5600

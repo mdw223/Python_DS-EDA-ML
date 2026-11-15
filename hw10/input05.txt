@@ -1,0 +1,10 @@
+cardata.txt
+s
+t
+y
+p
+q
+r
+2
+e
+cardata-out05.txt

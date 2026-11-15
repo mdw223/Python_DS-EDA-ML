@@ -1,0 +1,10 @@
+cardata.txt
+s
+a
+Honda
+Accord
+2011
+-30000
+s
+e
+cardata-out04.txt

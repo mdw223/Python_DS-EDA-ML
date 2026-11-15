@@ -1,0 +1,5 @@
+Toyota Corolla 2000 4500
+Dodge Charger 2012 12700
+Chevrolet Impala 1983 3900
+Pontiac Firebird 1979 5600
+Ford Mustang 1966 8999

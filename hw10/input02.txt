@@ -1,0 +1,10 @@
+cardata.txt
+s
+a
+Kia
+EV6 GT
+1000
+50600
+s
+e
+cardata-out02.txt

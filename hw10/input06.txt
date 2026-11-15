@@ -1,0 +1,14 @@
+cardata.txt
+s
+c
+1
+4999.99
+s
+a
+Tesla
+Model 3
+2023
+29500.55
+s
+e
+cardata-out06.txt
