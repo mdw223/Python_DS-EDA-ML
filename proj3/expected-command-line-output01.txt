@@ -1,0 +1,15 @@
+Enter input filename for image: flag.ppm
+Enter input filename for image: soldiers.ppm
+Enter blending weight of first image as a percent (0-100): 50
+
+Image processing options:
+1: Convert to grayscale
+2: Convert to sepia
+3: No further processing
+Enter processing option: 1
+Enter output filename: imageBW01.pgm
+
+Output file for grayscale blended image: imageBW01.pgm
+# blended image 50.0%/50.0%, converted to grayscale
+Type: P2
+Width: 600 Height: 400

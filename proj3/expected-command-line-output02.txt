@@ -1,0 +1,17 @@
+Enter input filename for image: flag2.ppm
+[Errno 2] No such file or directory: 'flag2.ppm'
+Enter input filename again: flags.ppm
+Enter input filename for image: soldiers.ppm
+Enter blending weight of first image as a percent (0-100): 60
+
+Image processing options:
+1: Convert to grayscale
+2: Convert to sepia
+3: No further processing
+Enter processing option: 2
+Enter output filename: imageSepia02.ppm
+
+Output file for sepia blended image: imageSepia02.ppm
+# blended image 60.0%/40.0%, converted to sepia
+Type: P3
+Width: 600 Height: 400

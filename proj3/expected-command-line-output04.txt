@@ -1,0 +1,17 @@
+Enter input filename for image: BWBeach.pgm
+This file is not in PPM P3 format.
+Enter input filename again: soldiers.ppm
+Enter input filename for image: flag.ppm
+Enter blending weight of first image as a percent (0-100): 85
+
+Image processing options:
+1: Convert to grayscale
+2: Convert to sepia
+3: No further processing
+Enter processing option: 3
+Enter output filename: imageBlend04.ppm
+
+Output file for color blended image: imageBlend04.ppm
+# blended image 85.0%/15.0%
+Type: P3
+Width: 600 Height: 400

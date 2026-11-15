@@ -1,0 +1,6 @@
+flag2.ppm
+flag.ppm
+soldiers.ppm
+60
+2
+imageSepia02.ppm

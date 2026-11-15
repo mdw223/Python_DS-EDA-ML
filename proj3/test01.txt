@@ -1,0 +1,5 @@
+flag.ppm
+soldiers.ppm
+50
+1
+imageBW01.pgm
